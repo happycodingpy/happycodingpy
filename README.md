@@ -4,11 +4,12 @@ I am Java Jr Developer and found out that I want to become a Frontend Developer.
 
 ```javascript
 const happycodingpy = {
-  fullName: 'Hugo Orlando Gonzalez',
-  country: 'Argentina',
+  pronouns: 'he' | 'him',
   code: [HTML, CSS, Javascript, Python, Java],
- 
-}
+  databases: ['MongoDB, MySQL, PL/SQL'],
+  thingsILike: ['Cats, Pizza's', Trees, 'Dinosaurs', 'Spaceship in the universe'],
+  
+  
 ```
 
 <!--
