@@ -7,7 +7,7 @@ const happycodingpy = {
   pronouns: 'he' | 'him',
   code: ['HTML', 'CSS', 'Javascript', 'Python', 'Java'],
   databases: ['MongoDB', 'MySQL', 'PL/SQL'],
-  thingsILike: ['Cats, Pizza's', 'Trees', 'Dinosaurs', 'Spaceship in the universe'],
+  thingsILike: ['Cats', Pizzas', 'Trees', 'Dinosaurs', 'Spaceship in the universe'],
   
   backEnd: {
          java: ['Spring'],
