@@ -1,4 +1,4 @@
-### <Hi there, I'm Hugo /> 👋 🦕
+### <Hi there, I'm Hugo /> 👋 🌱
 
 ```javascript
 const happycodingpy = {
