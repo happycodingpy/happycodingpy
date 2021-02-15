@@ -7,7 +7,7 @@ const happycodingpy = {
   pronouns: 'he' | 'him',
   code: ['HTML', 'CSS', 'Javascript', 'Python', 'Java'],
   databases: ['MongoDB', 'MySQL', 'PL/SQL'],
-  thingsILike: ['Cats', Pizzas', 'Trees', 'Dinosaurs', 'Spaceship in the universe'],
+  thingsILike: ['Cats', 'Pizzas', 'Trees', 'Dinosaurs', 'Spaceship in the universe'],
   
   backEnd: {
          java: ['Spring'],
@@ -17,6 +17,11 @@ const happycodingpy = {
 }  
   
 ```
+
+- 🔭 I’m currently working on Atos Argentina
+- 🌱 I’m currently learning Frontend Web Development
+- 👯 I’m looking to collaborate on open source frontend projects
+
 
 <!--
 **happycodingpy/happycodingpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
