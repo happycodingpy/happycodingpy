@@ -20,10 +20,6 @@ const happycodingpy = {
   
 ```
 
-- 🔭 I’m currently working on Atos Argentina
-- 🌱 I’m currently learning Frontend Web Development
-- 👯 I’m looking to collaborate on open source frontend projects
-
 
 <!--
 **happycodingpy/happycodingpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
