@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```javascript
+const happycodingpy = {
+  fullName: 'Hugo Orlando Gonzalez',
+  country: 'Argentina',
+  code: [HTML, CSS, Javascript, Python, Java],
+ 
+}
+```
+
 <!--
 **happycodingpy/happycodingpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
