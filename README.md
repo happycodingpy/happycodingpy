@@ -2,6 +2,8 @@
 
 I am Java Jr Developer and found out that I want to become a Frontend Developer. I am here to have the opportunity to be.
 
+## A little about me...
+
 ```javascript
 const happycodingpy = {
   pronouns: 'he' | 'him',
