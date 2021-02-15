@@ -1,5 +1,7 @@
 ### <Hi there, I'm Hugo /> 👋 🌱
 
+I am Java Jr Developer and found out that I want to become a Frontend Developer. I am here to have the opportunity to be.
+
 ```javascript
 const happycodingpy = {
   fullName: 'Hugo Orlando Gonzalez',
