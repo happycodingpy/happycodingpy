@@ -1,4 +1,4 @@
-### <Hi I'm Hugo /> 😆😃
+### <Hi! I'm Hugo /> 😆😃
 
 Every day I learn to code for fun
 
